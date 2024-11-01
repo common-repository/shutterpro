@@ -1,0 +1,19 @@
+#shutterpro
+{
+	list-style: none;
+}
+
+#shutterpro li
+{
+	float: left;
+	list-style-image: none;
+	list-style-type: none;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+#shutterpro li img
+{
+	width: 150px;
+	height: 150px;
+}
